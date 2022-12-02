@@ -1,2 +1,2 @@
 # lovestudio
-## a easy to use IDE for [LÖVE2D](love2d.org)
+## a easy to use IDE for [LÖVE2D](https://love2d.org/)
